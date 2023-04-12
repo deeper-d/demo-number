@@ -1,8 +1,8 @@
 {
-  "name": "webpack-numbers",
+  "name": "deeper-webpack-numbers",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/webpack-numbers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -14,5 +14,9 @@
     "lodash": "^4.17.21",
     "webpack": "^5.78.0",
     "webpack-cli": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deeper-d/demo-number.git"
   }
 }
